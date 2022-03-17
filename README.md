@@ -7,6 +7,13 @@ Download Telegram File by MTProto(Support Big File).
 go get github.com/chyroc/go-telegram-download
 ```
 
+## Prerequisites
+
+- how to get bot token:
+  - create bot: https://core.telegram.org/bots#creating-a-new-bot
+- how to get app id and app hash:
+  - create app: https://core.telegram.org/api/obtaining_api_id
+
 ## Usage
 
 ```go
